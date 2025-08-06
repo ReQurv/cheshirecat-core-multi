@@ -730,7 +730,7 @@ tqdm==4.67.1
     #   spacy
     #   transformers
     #   unstructured
-transformers==4.51.3
+transformers==4.53.0
     # via sentence-transformers
 triton==3.0.0
     # via torch
