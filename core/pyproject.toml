@@ -58,7 +58,7 @@ dependencies = [
     "text_generation",
     "tiktoken",
     "tomli",
-    "torch==2.4.1",
+    "torch==2.8.0",
     "unstructured",
     "uvicorn[standard]",
     "websockets",
