@@ -287,7 +287,7 @@ langchain-anthropic==0.3.10
     # via Cheshire-Cat (pyproject.toml)
 langchain-cohere==0.4.3
     # via Cheshire-Cat (pyproject.toml)
-langchain-community==0.3.21
+langchain-community==0.3.27
     # via langchain-cohere
 langchain-core==0.3.51
     # via
