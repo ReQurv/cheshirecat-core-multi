@@ -315,7 +315,7 @@ langchain-ollama==0.3.0
     # via Cheshire-Cat (pyproject.toml)
 langchain-openai==0.3.12
     # via Cheshire-Cat (pyproject.toml)
-langchain-text-splitters==0.3.8
+langchain-text-splitters==1.0.0a1
     # via langchain
 langchain-voyageai==0.1.4
     # via Cheshire-Cat (pyproject.toml)
