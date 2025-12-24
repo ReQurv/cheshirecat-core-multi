@@ -716,7 +716,7 @@ tomli==2.2.1
     # via Cheshire-Cat (pyproject.toml)
 tomlkit==0.13.2
     # via pylint
-torch==2.4.1
+torch==2.8.0
     # via
     #   Cheshire-Cat (pyproject.toml)
     #   sentence-transformers
