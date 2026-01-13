@@ -43,7 +43,7 @@ attrs==25.3.0
     #   referencing
 autopep8==2.3.2
     # via Cheshire-Cat (pyproject.toml)
-azure-core==1.33.0
+azure-core==1.38.0
     # via azure-storage-blob
 azure-storage-blob==12.25.1
     # via Cheshire-Cat (pyproject.toml)
