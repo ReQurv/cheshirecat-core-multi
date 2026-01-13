@@ -133,7 +133,7 @@ fastavro==1.10.0
     # via cohere
 fastembed==0.6.0
     # via Cheshire-Cat (pyproject.toml)
-filelock==3.18.0
+filelock==3.20.3
     # via
     #   huggingface-hub
     #   torch
