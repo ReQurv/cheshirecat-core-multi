@@ -484,7 +484,7 @@ psutil==7.0.0
     # via unstructured
 py-rust-stemmers==0.1.5
     # via fastembed
-pyasn1==0.6.1
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
