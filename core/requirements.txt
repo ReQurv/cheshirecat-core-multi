@@ -100,7 +100,7 @@ confection==0.1.5
     # via
     #   thinc
     #   weasel
-cryptography==44.0.2
+cryptography==46.0.5
     # via
     #   azure-storage-blob
     #   pdfminer-six
